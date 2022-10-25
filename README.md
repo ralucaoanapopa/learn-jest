@@ -15,7 +15,7 @@ Execute in terminal:
 
 > npm install --save-dev jest
 
-# Run tests written in page-object-model
+# Run tests
 
 run all from project:
 > npm run test
@@ -36,3 +36,9 @@ run tests in watch mode
 - [matchers](https://jestjs.io/docs/using-matchers)
 - [setup + teardown](https://jestjs.io/docs/setup-teardown)
 - [CLI options](https://jestjs.io/docs/cli)
+- [testing asynchronous code](https://jestjs.io/docs/asynchronous)
+
+3 ways to handle asynchnous testing in Jest:
+- Callbacks
+- Promises
+- async / await
