@@ -36,7 +36,8 @@ run tests in watch mode
 - [matchers](https://jestjs.io/docs/using-matchers)
 - [setup + teardown](https://jestjs.io/docs/setup-teardown)
 - [CLI options](https://jestjs.io/docs/cli)
-- [testing asynchronous code](https://jestjs.io/docs/asynchronous)
+- [Testing asynchronous code](https://jestjs.io/docs/asynchronous)
+- [Snapshot testing with Jest](https://jestjs.io/docs/snapshot-testing)
 
 3 ways to handle asynchnous testing in Jest:
 - Callbacks
