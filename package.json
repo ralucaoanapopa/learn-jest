@@ -4,7 +4,8 @@
   "description": "This is created based on [Jest Javascript testing framework course](https://testautomationu.applitools.com/jest-testing-tutorial/) from [Test Automation University](https://testautomationu.applitools.com/) by instructor [Toyer Mamoojee](https://github.com/toyerma)",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",

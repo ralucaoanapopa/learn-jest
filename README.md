@@ -16,7 +16,17 @@ Execute in terminal:
 > npm install --save-dev jest
 
 # Run tests written in page-object-model
+
+run all from project:
 > npm run test
+
+run single test file
+> npm run test <file_name>.test.js
+
+run single test in file using `test.only()` instead of `test()`
+
+run tests in watch mode
+> npm run test:watch
 
 # Resources
 
@@ -25,3 +35,4 @@ Execute in terminal:
 - [expect doc](https://jestjs.io/docs/expect)
 - [matchers](https://jestjs.io/docs/using-matchers)
 - [setup + teardown](https://jestjs.io/docs/setup-teardown)
+- [CLI options](https://jestjs.io/docs/cli)
