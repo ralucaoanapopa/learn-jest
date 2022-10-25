@@ -24,3 +24,4 @@ Execute in terminal:
 - [JEST - javascript testing framework](https://jestjs.io/)
 - [expect doc](https://jestjs.io/docs/expect)
 - [matchers](https://jestjs.io/docs/using-matchers)
+- [setup + teardown](https://jestjs.io/docs/setup-teardown)
